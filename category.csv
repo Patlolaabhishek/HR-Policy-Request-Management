@@ -1,0 +1,6 @@
+category_id,category_name,default_queue,default_sla_hours,sensitive_by_default
+CAT-BEN,Benefits,HR-Benefits,24,False
+CAT-LEV,Leave,HR-Leave,16,False
+CAT-PAY,Payroll,HR-Payroll,8,False
+CAT-ONB,Onboarding,HR-Onboarding,24,False
+CAT-ER,Employee Relations,HR-Employee-Relations,4,True

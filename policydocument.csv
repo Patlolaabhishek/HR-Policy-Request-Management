@@ -1,0 +1,151 @@
+policy_id,title,owner_department_id,category_id,audience,confidentiality,created_date,lifecycle_state
+POL-HR-2026-001,Benefits Eligibility - Standard 1,DEP-001,CAT-BEN,All employees,Internal,2023-09-28,Published
+POL-HR-2026-002,Annual Leave Policy - Standard 1,DEP-001,CAT-LEV,All employees,Internal,2023-10-29,Published
+POL-HR-2026-003,Sick Leave and Medical Absence - Standard 1,DEP-001,CAT-LEV,All employees,Internal,2024-03-12,Published
+POL-HR-2026-004,Payroll Calendar and Corrections - Standard 1,DEP-001,CAT-PAY,All employees,Internal,2024-07-28,Published
+POL-HR-2026-005,New Starter Onboarding - Standard 1,DEP-001,CAT-ONB,Employees and managers,Internal,2025-02-21,Published
+POL-HR-2026-006,Parental Leave - Standard 1,DEP-001,CAT-LEV,All employees,Internal,2023-09-09,Published
+POL-HR-2026-007,Flexible Benefits - Standard 1,DEP-001,CAT-BEN,All employees,Internal,2023-07-24,Published
+POL-HR-2026-008,Employee Relations Escalation - Standard 1,DEP-008,CAT-ER,HR partners only,Restricted,2024-01-08,Published
+POL-HR-2026-009,Benefits Eligibility - Standard 2,DEP-001,CAT-BEN,All employees,Internal,2023-05-25,Published
+POL-HR-2026-010,Annual Leave Policy - Standard 2,DEP-001,CAT-LEV,All employees,Internal,2025-09-25,Published
+POL-HR-2026-011,Sick Leave and Medical Absence - Standard 2,DEP-001,CAT-LEV,All employees,Internal,2025-03-21,Published
+POL-HR-2026-012,Payroll Calendar and Corrections - Standard 2,DEP-001,CAT-PAY,All employees,Internal,2024-09-09,Published
+POL-HR-2026-013,New Starter Onboarding - Standard 2,DEP-001,CAT-ONB,Employees and managers,Internal,2024-09-18,Published
+POL-HR-2026-014,Parental Leave - Standard 2,DEP-001,CAT-LEV,All employees,Internal,2023-12-13,Published
+POL-HR-2026-015,Flexible Benefits - Standard 2,DEP-001,CAT-BEN,All employees,Internal,2025-01-30,Published
+POL-HR-2026-016,Employee Relations Escalation - Standard 2,DEP-008,CAT-ER,HR partners only,Restricted,2024-05-31,Published
+POL-HR-2026-017,Benefits Eligibility - Standard 3,DEP-001,CAT-BEN,All employees,Internal,2023-01-07,Published
+POL-HR-2026-018,Annual Leave Policy - Standard 3,DEP-001,CAT-LEV,All employees,Internal,2023-04-06,Published
+POL-HR-2026-019,Sick Leave and Medical Absence - Standard 3,DEP-001,CAT-LEV,All employees,Internal,2024-10-11,Published
+POL-HR-2026-020,Payroll Calendar and Corrections - Standard 3,DEP-001,CAT-PAY,All employees,Internal,2024-10-06,Published
+POL-HR-2026-021,New Starter Onboarding - Standard 3,DEP-001,CAT-ONB,Employees and managers,Internal,2025-09-02,Published
+POL-HR-2026-022,Parental Leave - Standard 3,DEP-001,CAT-LEV,All employees,Internal,2024-08-01,Published
+POL-HR-2026-023,Flexible Benefits - Standard 3,DEP-001,CAT-BEN,All employees,Internal,2025-08-25,Published
+POL-HR-2026-024,Employee Relations Escalation - Standard 3,DEP-008,CAT-ER,HR partners only,Restricted,2025-09-02,Published
+POL-HR-2026-025,Benefits Eligibility - Standard 4,DEP-001,CAT-BEN,All employees,Internal,2024-06-23,Published
+POL-HR-2026-026,Annual Leave Policy - Standard 4,DEP-001,CAT-LEV,All employees,Internal,2024-01-24,Published
+POL-HR-2026-027,Sick Leave and Medical Absence - Standard 4,DEP-001,CAT-LEV,All employees,Internal,2024-11-21,Published
+POL-HR-2026-028,Payroll Calendar and Corrections - Standard 4,DEP-001,CAT-PAY,All employees,Internal,2024-07-09,Published
+POL-HR-2026-029,New Starter Onboarding - Standard 4,DEP-001,CAT-ONB,Employees and managers,Internal,2023-04-23,Published
+POL-HR-2026-030,Parental Leave - Standard 4,DEP-001,CAT-LEV,All employees,Internal,2023-05-01,Published
+POL-HR-2026-031,Flexible Benefits - Standard 4,DEP-001,CAT-BEN,All employees,Internal,2023-05-16,Published
+POL-HR-2026-032,Employee Relations Escalation - Standard 4,DEP-008,CAT-ER,HR partners only,Restricted,2025-09-24,Published
+POL-HR-2026-033,Benefits Eligibility - Standard 5,DEP-001,CAT-BEN,All employees,Internal,2025-06-22,Published
+POL-HR-2026-034,Annual Leave Policy - Standard 5,DEP-001,CAT-LEV,All employees,Internal,2025-07-06,Published
+POL-HR-2026-035,Sick Leave and Medical Absence - Standard 5,DEP-001,CAT-LEV,All employees,Internal,2024-03-23,Published
+POL-HR-2026-036,Payroll Calendar and Corrections - Standard 5,DEP-001,CAT-PAY,All employees,Internal,2025-07-14,Published
+POL-HR-2026-037,New Starter Onboarding - Standard 5,DEP-001,CAT-ONB,Employees and managers,Internal,2025-03-26,Published
+POL-HR-2026-038,Parental Leave - Standard 5,DEP-001,CAT-LEV,All employees,Internal,2025-09-12,Published
+POL-HR-2026-039,Flexible Benefits - Standard 5,DEP-001,CAT-BEN,All employees,Internal,2025-04-18,Published
+POL-HR-2026-040,Employee Relations Escalation - Standard 5,DEP-008,CAT-ER,HR partners only,Restricted,2024-03-28,Published
+POL-HR-2026-041,Benefits Eligibility - Standard 6,DEP-001,CAT-BEN,All employees,Internal,2023-03-07,Published
+POL-HR-2026-042,Annual Leave Policy - Standard 6,DEP-001,CAT-LEV,All employees,Internal,2024-07-19,Published
+POL-HR-2026-043,Sick Leave and Medical Absence - Standard 6,DEP-001,CAT-LEV,All employees,Internal,2025-01-11,Published
+POL-HR-2026-044,Payroll Calendar and Corrections - Standard 6,DEP-001,CAT-PAY,All employees,Internal,2024-11-08,Published
+POL-HR-2026-045,New Starter Onboarding - Standard 6,DEP-001,CAT-ONB,Employees and managers,Internal,2023-03-04,Published
+POL-HR-2026-046,Parental Leave - Standard 6,DEP-001,CAT-LEV,All employees,Internal,2023-06-23,Published
+POL-HR-2026-047,Flexible Benefits - Standard 6,DEP-001,CAT-BEN,All employees,Internal,2024-09-07,Published
+POL-HR-2026-048,Employee Relations Escalation - Standard 6,DEP-008,CAT-ER,HR partners only,Restricted,2024-08-12,Published
+POL-HR-2026-049,Benefits Eligibility - Standard 7,DEP-001,CAT-BEN,All employees,Internal,2024-10-28,Published
+POL-HR-2026-050,Annual Leave Policy - Standard 7,DEP-001,CAT-LEV,All employees,Internal,2024-02-13,Published
+POL-HR-2026-051,Sick Leave and Medical Absence - Standard 7,DEP-001,CAT-LEV,All employees,Internal,2024-01-18,Published
+POL-HR-2026-052,Payroll Calendar and Corrections - Standard 7,DEP-001,CAT-PAY,All employees,Internal,2024-06-01,Published
+POL-HR-2026-053,New Starter Onboarding - Standard 7,DEP-001,CAT-ONB,Employees and managers,Internal,2024-09-29,Published
+POL-HR-2026-054,Parental Leave - Standard 7,DEP-001,CAT-LEV,All employees,Internal,2023-01-12,Published
+POL-HR-2026-055,Flexible Benefits - Standard 7,DEP-001,CAT-BEN,All employees,Internal,2025-07-12,Published
+POL-HR-2026-056,Employee Relations Escalation - Standard 7,DEP-008,CAT-ER,HR partners only,Restricted,2024-08-27,Published
+POL-HR-2026-057,Benefits Eligibility - Standard 8,DEP-001,CAT-BEN,All employees,Internal,2024-09-06,Published
+POL-HR-2026-058,Annual Leave Policy - Standard 8,DEP-001,CAT-LEV,All employees,Internal,2024-12-05,Published
+POL-HR-2026-059,Sick Leave and Medical Absence - Standard 8,DEP-001,CAT-LEV,All employees,Internal,2024-11-20,Published
+POL-HR-2026-060,Payroll Calendar and Corrections - Standard 8,DEP-001,CAT-PAY,All employees,Internal,2024-04-14,Published
+POL-HR-2026-061,New Starter Onboarding - Standard 8,DEP-001,CAT-ONB,Employees and managers,Internal,2024-08-24,Published
+POL-HR-2026-062,Parental Leave - Standard 8,DEP-001,CAT-LEV,All employees,Internal,2023-05-01,Published
+POL-HR-2026-063,Flexible Benefits - Standard 8,DEP-001,CAT-BEN,All employees,Internal,2025-03-24,Published
+POL-HR-2026-064,Employee Relations Escalation - Standard 8,DEP-008,CAT-ER,HR partners only,Restricted,2024-10-28,Published
+POL-HR-2026-065,Benefits Eligibility - Standard 9,DEP-001,CAT-BEN,All employees,Internal,2025-07-08,Published
+POL-HR-2026-066,Annual Leave Policy - Standard 9,DEP-001,CAT-LEV,All employees,Internal,2025-09-27,Published
+POL-HR-2026-067,Sick Leave and Medical Absence - Standard 9,DEP-001,CAT-LEV,All employees,Internal,2023-05-09,Published
+POL-HR-2026-068,Payroll Calendar and Corrections - Standard 9,DEP-001,CAT-PAY,All employees,Internal,2025-03-08,Published
+POL-HR-2026-069,New Starter Onboarding - Standard 9,DEP-001,CAT-ONB,Employees and managers,Internal,2025-09-14,Published
+POL-HR-2026-070,Parental Leave - Standard 9,DEP-001,CAT-LEV,All employees,Internal,2024-02-12,Published
+POL-HR-2026-071,Flexible Benefits - Standard 9,DEP-001,CAT-BEN,All employees,Internal,2023-04-02,Published
+POL-HR-2026-072,Employee Relations Escalation - Standard 9,DEP-008,CAT-ER,HR partners only,Restricted,2024-03-15,Published
+POL-HR-2026-073,Benefits Eligibility - Standard 10,DEP-001,CAT-BEN,All employees,Internal,2023-05-18,Published
+POL-HR-2026-074,Annual Leave Policy - Standard 10,DEP-001,CAT-LEV,All employees,Internal,2024-01-11,Published
+POL-HR-2026-075,Sick Leave and Medical Absence - Standard 10,DEP-001,CAT-LEV,All employees,Internal,2024-05-01,Published
+POL-HR-2026-076,Payroll Calendar and Corrections - Standard 10,DEP-001,CAT-PAY,All employees,Internal,2023-03-15,Published
+POL-HR-2026-077,New Starter Onboarding - Standard 10,DEP-001,CAT-ONB,Employees and managers,Internal,2025-02-08,Published
+POL-HR-2026-078,Parental Leave - Standard 10,DEP-001,CAT-LEV,All employees,Internal,2023-03-29,Published
+POL-HR-2026-079,Flexible Benefits - Standard 10,DEP-001,CAT-BEN,All employees,Internal,2023-06-09,Published
+POL-HR-2026-080,Employee Relations Escalation - Standard 10,DEP-008,CAT-ER,HR partners only,Restricted,2025-07-10,Published
+POL-HR-2026-081,Benefits Eligibility - Standard 11,DEP-001,CAT-BEN,All employees,Internal,2024-06-15,Published
+POL-HR-2026-082,Annual Leave Policy - Standard 11,DEP-001,CAT-LEV,All employees,Internal,2023-03-27,Published
+POL-HR-2026-083,Sick Leave and Medical Absence - Standard 11,DEP-001,CAT-LEV,All employees,Internal,2024-10-14,Published
+POL-HR-2026-084,Payroll Calendar and Corrections - Standard 11,DEP-001,CAT-PAY,All employees,Internal,2024-11-30,Published
+POL-HR-2026-085,New Starter Onboarding - Standard 11,DEP-001,CAT-ONB,Employees and managers,Internal,2023-10-24,Published
+POL-HR-2026-086,Parental Leave - Standard 11,DEP-001,CAT-LEV,All employees,Internal,2023-04-01,Published
+POL-HR-2026-087,Flexible Benefits - Standard 11,DEP-001,CAT-BEN,All employees,Internal,2025-02-17,Published
+POL-HR-2026-088,Employee Relations Escalation - Standard 11,DEP-008,CAT-ER,HR partners only,Restricted,2025-08-04,Published
+POL-HR-2026-089,Benefits Eligibility - Standard 12,DEP-001,CAT-BEN,All employees,Internal,2025-08-31,Published
+POL-HR-2026-090,Annual Leave Policy - Standard 12,DEP-001,CAT-LEV,All employees,Internal,2023-12-18,Published
+POL-HR-2026-091,Sick Leave and Medical Absence - Standard 12,DEP-001,CAT-LEV,All employees,Internal,2024-05-07,Published
+POL-HR-2026-092,Payroll Calendar and Corrections - Standard 12,DEP-001,CAT-PAY,All employees,Internal,2024-06-22,Published
+POL-HR-2026-093,New Starter Onboarding - Standard 12,DEP-001,CAT-ONB,Employees and managers,Internal,2025-07-29,Published
+POL-HR-2026-094,Parental Leave - Standard 12,DEP-001,CAT-LEV,All employees,Internal,2023-12-04,Published
+POL-HR-2026-095,Flexible Benefits - Standard 12,DEP-001,CAT-BEN,All employees,Internal,2023-11-16,Published
+POL-HR-2026-096,Employee Relations Escalation - Standard 12,DEP-008,CAT-ER,HR partners only,Restricted,2024-08-04,Published
+POL-HR-2026-097,Benefits Eligibility - Standard 13,DEP-001,CAT-BEN,All employees,Internal,2023-12-10,Published
+POL-HR-2026-098,Annual Leave Policy - Standard 13,DEP-001,CAT-LEV,All employees,Internal,2024-10-09,Published
+POL-HR-2026-099,Sick Leave and Medical Absence - Standard 13,DEP-001,CAT-LEV,All employees,Internal,2025-06-27,Published
+POL-HR-2026-100,Payroll Calendar and Corrections - Standard 13,DEP-001,CAT-PAY,All employees,Internal,2024-05-09,Published
+POL-HR-2026-101,New Starter Onboarding - Standard 13,DEP-001,CAT-ONB,Employees and managers,Internal,2024-01-31,Published
+POL-HR-2026-102,Parental Leave - Standard 13,DEP-001,CAT-LEV,All employees,Internal,2023-06-30,Published
+POL-HR-2026-103,Flexible Benefits - Standard 13,DEP-001,CAT-BEN,All employees,Internal,2024-12-10,Published
+POL-HR-2026-104,Employee Relations Escalation - Standard 13,DEP-008,CAT-ER,HR partners only,Restricted,2023-09-11,Published
+POL-HR-2026-105,Benefits Eligibility - Standard 14,DEP-001,CAT-BEN,All employees,Internal,2024-07-15,Published
+POL-HR-2026-106,Annual Leave Policy - Standard 14,DEP-001,CAT-LEV,All employees,Internal,2025-07-03,Published
+POL-HR-2026-107,Sick Leave and Medical Absence - Standard 14,DEP-001,CAT-LEV,All employees,Internal,2025-03-14,Published
+POL-HR-2026-108,Payroll Calendar and Corrections - Standard 14,DEP-001,CAT-PAY,All employees,Internal,2025-09-15,Published
+POL-HR-2026-109,New Starter Onboarding - Standard 14,DEP-001,CAT-ONB,Employees and managers,Internal,2025-02-24,Published
+POL-HR-2026-110,Parental Leave - Standard 14,DEP-001,CAT-LEV,All employees,Internal,2023-05-23,Published
+POL-HR-2026-111,Flexible Benefits - Standard 14,DEP-001,CAT-BEN,All employees,Internal,2024-04-17,Published
+POL-HR-2026-112,Employee Relations Escalation - Standard 14,DEP-008,CAT-ER,HR partners only,Restricted,2023-04-28,Published
+POL-HR-2026-113,Benefits Eligibility - Standard 15,DEP-001,CAT-BEN,All employees,Internal,2025-02-10,Published
+POL-HR-2026-114,Annual Leave Policy - Standard 15,DEP-001,CAT-LEV,All employees,Internal,2023-02-28,Published
+POL-HR-2026-115,Sick Leave and Medical Absence - Standard 15,DEP-001,CAT-LEV,All employees,Internal,2023-05-17,Published
+POL-HR-2026-116,Payroll Calendar and Corrections - Standard 15,DEP-001,CAT-PAY,All employees,Internal,2025-08-16,Published
+POL-HR-2026-117,New Starter Onboarding - Standard 15,DEP-001,CAT-ONB,Employees and managers,Internal,2024-10-05,Published
+POL-HR-2026-118,Parental Leave - Standard 15,DEP-001,CAT-LEV,All employees,Internal,2023-07-15,Published
+POL-HR-2026-119,Flexible Benefits - Standard 15,DEP-001,CAT-BEN,All employees,Internal,2024-09-05,Published
+POL-HR-2026-120,Employee Relations Escalation - Standard 15,DEP-008,CAT-ER,HR partners only,Restricted,2023-05-21,Published
+POL-HR-2026-121,Benefits Eligibility - Standard 16,DEP-001,CAT-BEN,All employees,Internal,2023-07-24,Published
+POL-HR-2026-122,Annual Leave Policy - Standard 16,DEP-001,CAT-LEV,All employees,Internal,2025-07-06,Published
+POL-HR-2026-123,Sick Leave and Medical Absence - Standard 16,DEP-001,CAT-LEV,All employees,Internal,2023-06-10,Published
+POL-HR-2026-124,Payroll Calendar and Corrections - Standard 16,DEP-001,CAT-PAY,All employees,Internal,2024-05-22,Published
+POL-HR-2026-125,New Starter Onboarding - Standard 16,DEP-001,CAT-ONB,Employees and managers,Internal,2023-07-16,Published
+POL-HR-2026-126,Parental Leave - Standard 16,DEP-001,CAT-LEV,All employees,Internal,2024-01-27,Published
+POL-HR-2026-127,Flexible Benefits - Standard 16,DEP-001,CAT-BEN,All employees,Internal,2024-03-22,Published
+POL-HR-2026-128,Employee Relations Escalation - Standard 16,DEP-008,CAT-ER,HR partners only,Restricted,2024-06-13,Published
+POL-HR-2026-129,Benefits Eligibility - Standard 17,DEP-001,CAT-BEN,All employees,Internal,2025-09-18,Published
+POL-HR-2026-130,Annual Leave Policy - Standard 17,DEP-001,CAT-LEV,All employees,Internal,2025-04-21,Published
+POL-HR-2026-131,Sick Leave and Medical Absence - Standard 17,DEP-001,CAT-LEV,All employees,Internal,2023-03-21,Published
+POL-HR-2026-132,Payroll Calendar and Corrections - Standard 17,DEP-001,CAT-PAY,All employees,Internal,2024-09-04,Published
+POL-HR-2026-133,New Starter Onboarding - Standard 17,DEP-001,CAT-ONB,Employees and managers,Internal,2024-11-23,Published
+POL-HR-2026-134,Parental Leave - Standard 17,DEP-001,CAT-LEV,All employees,Internal,2024-12-20,Published
+POL-HR-2026-135,Flexible Benefits - Standard 17,DEP-001,CAT-BEN,All employees,Internal,2024-04-18,Published
+POL-HR-2026-136,Employee Relations Escalation - Standard 17,DEP-008,CAT-ER,HR partners only,Restricted,2024-11-08,Published
+POL-HR-2026-137,Benefits Eligibility - Standard 18,DEP-001,CAT-BEN,All employees,Internal,2023-01-28,Published
+POL-HR-2026-138,Annual Leave Policy - Standard 18,DEP-001,CAT-LEV,All employees,Internal,2024-05-27,Published
+POL-HR-2026-139,Sick Leave and Medical Absence - Standard 18,DEP-001,CAT-LEV,All employees,Internal,2025-08-03,Published
+POL-HR-2026-140,Payroll Calendar and Corrections - Standard 18,DEP-001,CAT-PAY,All employees,Internal,2024-05-16,Published
+POL-HR-2026-141,New Starter Onboarding - Standard 18,DEP-001,CAT-ONB,Employees and managers,Internal,2025-07-24,Published
+POL-HR-2026-142,Parental Leave - Standard 18,DEP-001,CAT-LEV,All employees,Internal,2023-08-18,Published
+POL-HR-2026-143,Flexible Benefits - Standard 18,DEP-001,CAT-BEN,All employees,Internal,2025-04-28,Published
+POL-HR-2026-144,Employee Relations Escalation - Standard 18,DEP-008,CAT-ER,HR partners only,Restricted,2024-12-16,Published
+POL-HR-2026-145,Benefits Eligibility - Standard 19,DEP-001,CAT-BEN,All employees,Internal,2024-05-26,Published
+POL-HR-2026-146,Annual Leave Policy - Standard 19,DEP-001,CAT-LEV,All employees,Internal,2023-07-19,Published
+POL-HR-2026-147,Sick Leave and Medical Absence - Standard 19,DEP-001,CAT-LEV,All employees,Internal,2024-04-15,Published
+POL-HR-2026-148,Payroll Calendar and Corrections - Standard 19,DEP-001,CAT-PAY,All employees,Internal,2025-02-08,Published
+POL-HR-2026-149,New Starter Onboarding - Standard 19,DEP-001,CAT-ONB,Employees and managers,Internal,2023-01-13,Published
+POL-HR-2026-150,Parental Leave - Standard 19,DEP-001,CAT-LEV,All employees,Internal,2024-02-08,Published

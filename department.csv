@@ -1,0 +1,9 @@
+department_id,department_name,cost_center,hr_partner_employee_id
+DEP-001,People Operations,CC-100,EMP-000001
+DEP-002,Engineering,CC-210,EMP-000002
+DEP-003,Finance,CC-220,EMP-000003
+DEP-004,Sales,CC-230,EMP-000004
+DEP-005,Customer Support,CC-240,EMP-000005
+DEP-006,Operations,CC-250,EMP-000006
+DEP-007,Marketing,CC-260,EMP-000007
+DEP-008,Legal & Compliance,CC-270,EMP-000008

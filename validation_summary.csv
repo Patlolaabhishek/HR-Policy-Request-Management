@@ -1,0 +1,29 @@
+check,passed,detail
+Department primary-key uniqueness,True,8 rows; 0 duplicate keys
+Employee primary-key uniqueness,True,500 rows; 0 duplicate keys
+Category primary-key uniqueness,True,5 rows; 0 duplicate keys
+PolicyDocument primary-key uniqueness,True,150 rows; 0 duplicate keys
+PolicyVersion primary-key uniqueness,True,300 rows; 0 duplicate keys
+KnowledgeArticle primary-key uniqueness,True,150 rows; 0 duplicate keys
+Ticket primary-key uniqueness,True,5000 rows; 0 duplicate keys
+Message primary-key uniqueness,True,20000 rows; 0 duplicate keys
+Assignment primary-key uniqueness,True,5000 rows; 0 duplicate keys
+SLA primary-key uniqueness,True,5000 rows; 0 duplicate keys
+Resolution primary-key uniqueness,True,3572 rows; 0 duplicate keys
+TicketEvent primary-key uniqueness,True,15000 rows; 0 duplicate keys
+MessagePolicyCitation primary-key uniqueness,True,5000 rows; 0 duplicate keys
+Employee.department_id FK,True,All employee departments resolve
+Ticket employee/department consistency,True,All ticket employee and department joins resolve
+Ticket policy FK,True,All ticket policy references resolve
+PolicyVersion policy FK,True,All policy versions resolve
+KnowledgeArticle version-policy consistency,True,All KB current versions belong to their parent policy
+Message ticket FK,True,All messages resolve to tickets
+Message citation FKs,True,All citation message/version references resolve
+Resolution ticket FK,True,All resolution tickets resolve
+"Exactly 5,000 tickets",True,5000
+"Exactly 20,000 messages",True,20000
+Exactly 150 policy articles,True,150
+Four required anomaly types,True,"['OBSOLETE_POLICY_CITATION', 'SENSITIVE_CASE_GENERAL_QUEUE', 'SLA_INCORRECT_BUSINESS_HOURS', 'UNSUPPORTED_POLICY_CLAIM']"
+Sensitive routing except labelled anomaly,True,All sensitive tickets route to restricted queue except the explicit labelled defect
+Resolved ticket has resolution,True,Resolution rows align with ticket status
+Message count per ticket,True,Exactly four messages per ticket

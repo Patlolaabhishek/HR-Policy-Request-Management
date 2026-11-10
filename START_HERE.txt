@@ -1,0 +1,13 @@
+HR POLICY REQUEST MANAGEMENT — RUN THE APPLICATION
+
+1. Open this folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run: py -m pip install -r requirements.txt
+4. Run: py -m streamlit run app.py
+5. The application opens in your browser (usually http://localhost:8501).
+
+The app uses hr.db if it already exists. If hr.db is missing, it creates the database from seed.sql automatically.
+Keep app.py, requirements.txt, seed.sql, and the CSV/JSON data files together in the same folder.
+
+Features: dashboard, request submission, sensitive-case routing, business-hours SLA due date, request tracking, policy library search, and integrity checks.
+All records are synthetic. This is a local demonstration, not a production HR system.
